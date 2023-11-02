@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e82fdb63-ed4f-4aab-9ace-c3bcd987f27f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Garage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ait/dao/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ait/dao/GarageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ait/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ait/model/ElectroCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ait/model/FuelCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ait/model/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ait/tests/GarageImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XImJPJY6BpEqGo6spbaMlpWW9J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "C:/Users/татяна/AITTR-JAVA Cource/Garage"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ait.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GarageImplTest.printCarsTest">
+    <configuration name="GarageImplTest.findCarsByColor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Garage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.tests" />
+      <option name="MAIN_CLASS_NAME" value="ait.tests.GarageImplTest" />
+      <option name="METHOD_NAME" value="findCarsByColor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarageImplTest.findCarsByCompany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Garage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.tests" />
+      <option name="MAIN_CLASS_NAME" value="ait.tests.GarageImplTest" />
+      <option name="METHOD_NAME" value="findCarsByCompany" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarageImplTest.findCarsByEngine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Garage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.tests" />
+      <option name="MAIN_CLASS_NAME" value="ait.tests.GarageImplTest" />
+      <option name="METHOD_NAME" value="findCarsByEngine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarageImplTest.findCarsByModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Garage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.tests" />
+      <option name="MAIN_CLASS_NAME" value="ait.tests.GarageImplTest" />
+      <option name="METHOD_NAME" value="findCarsByModelTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarageImplTest.printCarsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Garage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.tests" />
+      <option name="MAIN_CLASS_NAME" value="ait.tests.GarageImplTest" />
+      <option name="METHOD_NAME" value="printCarsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GarageImplTest.printCarsTest" />
+        <item itemvalue="JUnit.GarageImplTest.findCarsByColor" />
+        <item itemvalue="JUnit.GarageImplTest.findCarsByEngine" />
+        <item itemvalue="JUnit.GarageImplTest.findCarsByCompany" />
+        <item itemvalue="JUnit.GarageImplTest.findCarsByModelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e82fdb63-ed4f-4aab-9ace-c3bcd987f27f" name="Changes" comment="" />
+      <created>1698324896709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698324896709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
